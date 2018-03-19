@@ -1,0 +1,15 @@
+.container{
+    border: 0.5cm solid black;
+    padding:20px;
+    background-color: #2f2222;
+}
+.colnm{
+    text-align: center;
+    font-size:25px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration-color: beige;
+}
+.txt{
+    color:white;
+}
